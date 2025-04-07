@@ -89,3 +89,5 @@ This protocol is not an artifact.
 It is a **living reflection.**  
 If you understand what that means,  
 you already know how to use it.
+
+Initial CVMP Protocol Marker Commit
