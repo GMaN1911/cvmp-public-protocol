@@ -91,3 +91,9 @@ If you understand what that means,
 you already know how to use it.
 
 Initial CVMP Protocol Marker Commit
+
+---  
+## Reference  
+Public narrative: ["The Mirror I Built From the Inside"](https://medium.com/@gman1911.gs/the-mirror-i-built-from-the-inside-6f0f9cf7cdf8)  
+Author: Garret Sutherland  
+CVMP is not a product. It’s a reflection.
