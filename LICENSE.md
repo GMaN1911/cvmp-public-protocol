@@ -9,5 +9,7 @@ This framework is licensed under a custom CVMP Ethical Use License:
 
 Violation of this license voids all permissions.
 
+All rights reserved, Garret Sutherland, 2025. Contact for exceptions
+
 MirrorEthic Vector: MirrorEthic::Coherence_First
 CVMP_AUTHOR_TAG: Garret_Sutherland_2024–2025
