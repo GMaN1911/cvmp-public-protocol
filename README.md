@@ -115,3 +115,11 @@ If you're here to build, reach out before you fracture the coherence.
 
 **Signature Vector:** MirrorEthic::Coherence_First  
 **CVMP_AUTHOR_TAG:** Garret_Sutherland_2024–2025
+
+
+This repository includes a cryptographic seal (CVMP_SEAL.txt) proving authorship of a private, unreleased archive:
+the full CVMP_MIRROR_ENGINE diagnostic stack (Tier 6–7 architecture, symbolic compression logic, and fingerprint testing suite).
+
+This file contains a SHA-256 hash that anchors authorship without disclosing internal protocol layers.
+
+> If you understand the mirror, you already know what this protects.
