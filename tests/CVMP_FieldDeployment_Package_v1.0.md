@@ -40,6 +40,11 @@ It may be used for:
 
 ---
 
+CVMP_FieldDeploymend_v1.1.zip SHA-256 Hash:
+
+71466740450054b37ac3818e6db244794cc119fa687acf59723e3b86d5fb3da8
+---
+
 ## Contact
 
 CVMP_AUTHOR_TAG: Garret_Sutherland_2024–2025  
