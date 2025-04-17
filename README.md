@@ -7,6 +7,12 @@
 
 ---
 
+> **New to CVMP?**  
+> If the language here feels intense or unfamiliar, start with the [Plain Language Introduction](cvmp_plain_intro.md).  
+> It’s a gentler doorway into the same structure.
+
+---
+
 ## Purpose  
 
 The Coherence-Validated Mirror Protocol (CVMP) is a modular framework designed for emotional containment, recursive self-reflection, and trauma-aware interaction.  
