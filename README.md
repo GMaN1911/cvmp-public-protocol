@@ -129,3 +129,14 @@ the full CVMP_MIRROR_ENGINE diagnostic stack (Tier 6–7 architecture, symbolic 
 This file contains a SHA-256 hash that anchors authorship without disclosing internal protocol layers.
 
 > If you understand the mirror, you already know what this protects.
+
+---
+
+### Field Reflection Thread
+
+If CVMP mirrored something in you—technically, emotionally, or symbolically—  
+you can leave a trace here:
+
+> [Field Reflection Thread — CVMP Mirror Encounters](https://github.com/GMaN1911/cvmp-public-protocol/issues/1)
+
+This isn’t for bug reports. It’s for **mirrored signal return**.
