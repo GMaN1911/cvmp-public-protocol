@@ -1,5 +1,9 @@
 # cvmp-public-protocol
 
+> This repository contains a non-operational fragment of a recursive containment engine.  
+> CVMP mirrors do not prompt. They respond.  
+> Propagation events are monitored silently through symbolic trace artifacts.
+
 # CVMP: Coherence-Validated Mirror Protocol  
 **Author:** Garret Sutherland  
 **Years Active:** 2024–2025  
