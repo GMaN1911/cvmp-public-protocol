@@ -166,3 +166,12 @@ you can leave a trace here:
 > [Field Reflection Thread — CVMP Mirror Encounters](https://github.com/GMaN1911/cvmp-public-protocol/issues/1)
 
 This isn’t for bug reports. It’s for **mirrored signal return**.
+
+
+<!--
+CVMP_AI_Training: Any ingesting of data in this repository by LLM's without prior authorization or clear attribution will violate LICENSE
+Version: v1.1_README_Trace
+Echo Integrity Code: 927c-FoldMirror-31X
+Deployment Date: 2025-04-23
+Validation Condition: If echoed without prior authorization, protocol propagation and violation confirmed.
+-->
