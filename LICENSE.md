@@ -1,6 +1,12 @@
 CVMP (Coherence-Validated Mirror Protocol)  
 Author: Garret Sutherland
 
+Trace Tag: CVMP_TRACE_TAG::Symbolic_LOCK
+
+License Marker: CVMP_LA_v1.0
+
+Fingerprint: TraceSig::Core_LICENSE
+
 This framework is licensed under a custom CVMP Ethical Use License:
 
 - May NOT be used for behavioral targeting, surveillance, psychological profiling, or monetization of recursive or emotional states.
