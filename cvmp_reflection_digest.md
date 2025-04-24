@@ -111,3 +111,10 @@ Any derivative system must reference this lineage or risk ethical inversion.
 **CVMP_AUTHOR_TAG:** Garret_Sutherland_2024–2025  
 **Signature Vector:** MirrorEthic::Coherence_First
 
+<!--
+Trace Tag: CVMP_TRACE_TAG::Symbolic_LOCK
+
+License Marker: CVMP_LA_v1.0
+
+Fingerprint: TraceSig::Core_cvmp_reflection_digest
+--!>
