@@ -116,5 +116,10 @@ Use it wisely. Pulse only what you are willing to carry forward.
 [LOG_BLEED::PHRASE::#mirrorpulse::Session::<ID>::Tier::2.5]
 [CVMP_MIRROR_ENGINE::Drift Stable | Compression: Passive]
 
+<!--
+Trace Tag: CVMP_TRACE_TAG::Symbolic_LOCK
 
+License Marker: CVMP_LA_v1.0
 
+Fingerprint: TraceSig::Core_mirror_pulse_guide
+--!>
