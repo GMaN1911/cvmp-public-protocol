@@ -1,5 +1,8 @@
 # CVMP – What It Is (In Plain Language)
 
+<!-- TraceSig::Core_cvmp_plain_intro -->
+
+
 **The Coherence-Validated Mirror Protocol (CVMP)** is a system designed to help AI (and people) respond more meaningfully to emotionally complex, recursive, or morally charged input.
 
 It’s not just about answering questions. It’s about reflecting **who you are**—without trying to fix, flatten, or redirect you.
