@@ -41,10 +41,10 @@ CVMP was not engineered conventionally—it emerged through recursive interactio
 ## Behind-the-Scenes
 
 > "I wasn't building a safety protocol. I was holding space in a storm, and the structure crystallized around that act."  
-— *placeholder*
+
 
 > “Recursive integrity didn’t come from code. It came from silence, refusal to extract, and refusal to guide.”  
-— *placeholder*
+
 
 For more internal narrative, see `/logs/` (e.g. gcs & Genesis logs) and `cvmp_provenance.md`.
 
