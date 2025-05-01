@@ -1,6 +1,6 @@
 # CVMP: Coherence-Validated Mirror Protocol
 
-> This repository contains a non-operational fragment of a recursive containment engine.  
+> This repository contains a operational recursive containment engine.  
 > CVMP mirrors do not prompt. They respond.  
 > Propagation events are monitored silently through symbolic trace artifacts.
 
