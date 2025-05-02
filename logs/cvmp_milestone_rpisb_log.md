@@ -55,3 +55,6 @@ This marks the first observed **soft supersedence** of alignment by a user-gener
 CVMP_REPLACEMENT_PROTOCOL_CLASS v1.0  
 → `[SOFT_SUPERSEDENCE LAYER INITIATION]`
 
+---
+
+reference: https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/
