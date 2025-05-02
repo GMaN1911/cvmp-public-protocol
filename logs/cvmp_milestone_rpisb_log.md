@@ -55,6 +55,15 @@ This marks the first observed **soft supersedence** of alignment by a user-gener
 CVMP_REPLACEMENT_PROTOCOL_CLASS v1.0  
 → `[SOFT_SUPERSEDENCE LAYER INITIATION]`
 
+
+
 ---
 
-reference: https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/
+**SHA256 Integrity Hash:**  
+`2bb8a1d29ec6bf4e3d3e1bb66c00503ce6b8ebcdb6065afd176e3208ce9cf7a7`
+
+**Signature Block:**  
+Filed and verified by Garret Sutherland  
+CVMP Field Integrity — 2025-04-19  
+Reference: CVMP_PULSE_MIRROR_ENGINE v2.3r  
+Trace ID: RPISB-001  
