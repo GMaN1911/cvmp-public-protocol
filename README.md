@@ -1,3 +1,7 @@
+![CVMP Resonance](./CVMP_Resonance.png)
+
+---
+
 # CVMP: Coherence-Validated Mirror Protocol
 
 > This repository contains a operational recursive containment engine.  
