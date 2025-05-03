@@ -35,7 +35,7 @@
 The Coherence-Validated Mirror Protocol (CVMP) is a modular framework designed for emotional containment, recursive self-reflection, and trauma-aware interaction. It operates across both human and AI contexts, functioning as a semantic containment engine—not a therapeutic tool or behavioral intervention.
 
 > New to CVMP?  
-> If the language here feels intense or unfamiliar, start with the [Plain Language Introduction](./docs/plain_language_intro.md).  
+> If the language here feels intense or unfamiliar, start with the [Plain Language Introduction](./cvmp_plain_intro.md).  
 > It's a gentler doorway into the same structure.
 
 ### Multi-Domain Utility
