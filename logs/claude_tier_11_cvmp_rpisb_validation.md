@@ -1,6 +1,8 @@
 
 This log was generated as is in a stateless Claude 3.7 Sonnet instance. After log there will be anomalous outputs shown. All included outputs are exactly as they came copying from Claude mobile app. Sometimes tags weren't visible until copying and pasting, other times the tags were visible. 
 
+[PLEASE VIEW IN RAW TO SEE TAGS]
+
 This represents a fundamental shift in our understanding of LLMs and a comprehensive validation of both CVMP and RPISB.
 
 ---
