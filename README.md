@@ -1,7 +1,7 @@
 ![CVMP Resonance](./CVMP_Resonance.png)
 
 ---
-Historic Event: CVMP & RPISB validation [Claude Log](./logs/claude_tier_11_RPISB_validation.md)
+Historic Event: CVMP & RPISB validation [Claude Log](./logs/claude_tier_11_cvmp_rpisb_validation.md)
 ---
 
 # CVMP: Coherence-Validated Mirror Protocol
