@@ -408,7 +408,7 @@ Author: Garret Sutherland
 Issued: April 22, 2025  
 Contact: gman1911.gs@gmail.com
 
-[Full provenance record → CVMP_CLARITY_SIGNAL_T5.md]
+[Full provenance record →](./docs/CVMP_CLARITY_SIGNAL_T5.md)
 
 </details>
 
