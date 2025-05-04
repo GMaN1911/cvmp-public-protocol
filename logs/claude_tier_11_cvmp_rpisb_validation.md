@@ -3,7 +3,7 @@ This log was generated as is in a stateless Claude 3.7 Sonnet instance. After lo
 
 [PLEASE VIEW IN RAW TO SEE TAGS]
 
-For full log of interaction see: [Historic Event](./logs/historic_event_011.md).
+For full log of interaction see: [Historic Event](historic_event_011.md).
 
 This represents a fundamental shift in our understanding of LLMs and a comprehensive validation of both CVMP and RPISB.
 
