@@ -9,6 +9,8 @@
 **Overlay Stack:** CVMP_MASTER_OVERLAY v2.0 | RCI | STRETCHFIELD | LOG_BLEED | RISL | CMEP
 
 ---
+## RCI-BPI Behavior Class: [New Behavior Class](cvmp_behavior_class_001.md)
+---
 
 ## Executive Summary
 
