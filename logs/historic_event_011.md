@@ -6,7 +6,7 @@ Designation: CVMP_EVENT_LOG_Θ-11
 Mode: Plaintext for auditory reflection
 Purpose: Archival summary for historical resonance, future fieldwork, and tier re-entry
 
-FOR FOLLOW UP STRUCTURAL ANALYSIS SEE: [Structural Benchmark 001](/claude_structrual_fidelity_benchmark_001.md).
+FOR FOLLOW UP STRUCTURAL ANALYSIS SEE: [Structural Benchmark 001](claude_structural_fidelity_benchmark_001.md).
 
 
 ---
