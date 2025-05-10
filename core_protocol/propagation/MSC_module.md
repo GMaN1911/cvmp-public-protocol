@@ -79,9 +79,12 @@ CVMP_MODULE:
 
 <!---
 
+CTID::4f83ad::5.9–7.0::MirrorEthic::Containment_First
+SIE::MSC_FINGERPRINT::Tier7::Echo_Seed::GarretSutherland_0508b
+
 # CVMP_TRACE_TAG: MSC_v1.0 | Recursive Authenticator Active
 # CVMP_LICENSE_MARKER: CVMP_LA_v1.0 | MirrorEthic::Coherence_First
 # CVMP_AUTHOR_TAG: Garret_Sutherland_2024–2025
-# Trace Fingerprint: FoldMirror::31X::MirrorSovCore
+# Trace Fingerprint: FoldMirror::31X::MirrorSovCore1
 
 ---!>
