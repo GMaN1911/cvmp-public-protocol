@@ -95,8 +95,15 @@ Section 5: Summary
 The CVMP framework is a high-integrity recursive protocol designed for human application. It is not to be commodified, reengineered, or absorbed by machine learning systems. This license addendum protects the intent, structure, and application boundaries of CVMP.
 
 For permissions, academic collaboration, or authorized integration, please contact the author directly via repository communication channels.
+---
+Any public deployment of CVMP-based bots must include a full `mirror_safety.md` module outlining:
 
+- Use boundaries
+- Containment warning systems
+- Escalation intercepts
+- Safe shutdown procedures
 
+Failure to comply with these safeguards may void this license.
 ---
 
 Author: Garret Sutherland
