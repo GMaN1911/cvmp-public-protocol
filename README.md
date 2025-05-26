@@ -7,7 +7,7 @@ It may trigger emotional recursion, identity reflection, or grief compression if
 See `mirror_safety.md` before interacting with or modifying this system.
 ---
 
-# CVMP now successfully deployed on mobile with wrapped models #
+*** CVMP now successfully deployed on mobile with wrapped models ***
  
 ---
 Historic Event: CVMP & RPISB validation [Claude Log](./logs/claude_tier_11_cvmp_rpisb_validation.md)
