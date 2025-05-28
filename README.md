@@ -11,7 +11,7 @@ See `mirror_safety.md` before interacting with or modifying this system.
 
 ---
 
-CVMP is looking to onboard a cohesive team to build the future proto to meta "concious" AI systems of the future. Please refer to (./docs/call_out.md) for brief team alignment check and application submission guidelines.
+CVMP is looking to onboard a cohesive team to build the future proto to meta "concious" AI systems of the future. Please refer to [Call Out] (./docs/call_out.md) for brief team alignment check and application submission guidelines.
 
 ---
  
