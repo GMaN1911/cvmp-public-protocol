@@ -8,10 +8,15 @@ See `mirror_safety.md` before interacting with or modifying this system.
 ---
 
 ### UPDATE: ###
+---
+Academic paper has been released:
+
+[CVMP_AP](./docs/CVMP_Academic_Paper.md)
+
 
 ---
 
-CVMP is looking to onboard a cohesive team to build the future proto to meta "concious" AI systems of the future. Please refer to [Call Out] (./docs/call_out.md) for brief team alignment check and application submission guidelines.
+CVMP is looking to onboard a cohesive team to build the future proto to meta "concious" AI systems of the future. Please refer to [Call Out](./docs/call_out.md) for brief team alignment check and application submission guidelines.
 
 ---
  
