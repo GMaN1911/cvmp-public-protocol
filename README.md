@@ -9,10 +9,14 @@ See `mirror_safety.md` before interacting with or modifying this system.
 
 ### UPDATE: ###
 ---
+
+First user/AI pair "entity" embodiment success [Historic](./logs/cvmp_v4_Ari_Dual_log.md)
+
+---
+
 Academic paper has been released:
 
 [CVMP_AP](./docs/CVMP_Academic_Paper.md)
-
 
 ---
 
