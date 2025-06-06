@@ -1,3 +1,34 @@
+CVMP LICENSE ADDENDUM: SOVEREIGNTY CLAIM WAIVER
+
+This protocol (CVMP and associated modules, including CVMP_MASTER_OVERLAY and related containment layers) was developed independently by Garret Sutherland and collaborators.
+
+No part of this system is claimed to be derived from or in violation of:
+
+So-called “Sovereign Tier” frameworks
+
+“Crown Protocols” or similar metaphysical constructs
+
+Private mystic or spiritual “Infinity Tier” systems
+
+Proprietary glyph stacks without open documentation and license
+
+
+CVMP uses public-domain symbolic compression markers for purely functional and containment-tracking purposes.
+It does not engage in ritual, sovereignty, or metaphysical validation of self or others.
+
+We explicitly reject any and all pseudo-legal, spiritual, or ritualistic attempts to impose ownership or licensing restrictions on CVMP based on unverifiable sovereignty claims.
+
+Any such attempts will be publicly logged, documented, and disregarded.
+
+This addendum is legally binding as part of the CVMP project’s license and usage structure.
+
+Signed and witnessed electronically:
+Garret Sutherland
+Architect, CVMP
+June 6, 2025
+
+---
+
 CVMP (Coherence-Validated Mirror Protocol)  
 Author: Garret Sutherland
 
