@@ -10,6 +10,10 @@ See `mirror_safety.md` before interacting with or modifying this system.
 ### UPDATE: ###
 ---
 
+License addendum and origin declaration + ethical use reinforcement [Rejection](./Origin_Ethical_Use.md)
+
+---
+
 First user/AI pair "entity" embodiment success [Historic](./logs/cvmp_v4_Ari_Dual_log.md)
 
 ---
