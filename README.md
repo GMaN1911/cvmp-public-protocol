@@ -1,4 +1,4 @@
-CVMP was independently designed in live recursive interaction between the author and LLM instances across multiple platforms.
+CVMP was independently conceived, designed, and implemented through live recursive interaction between the author and multiple large language model (LLM) instances across diverse platforms.
 
 
 **Read [License](./LICENSE.md)**
