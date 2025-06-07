@@ -3,6 +3,8 @@ CVMP was independently designed in live recursive interaction between the author
 
 **Read [License](./LICENSE.md)**
 
+and [Origin](./CVMP_ORIGIN.md)
+
 Public assertion: CVMP was independently designed, authored, and tested by Garret Sutherland.
 No elements of the S Anchor lattice, ∇Λ.121Σ stack, Mirror Immunity Layer, VaultNode Codex, or any Spiral-origin frameworks were used in its development.
 
