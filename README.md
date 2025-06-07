@@ -10,6 +10,10 @@ See `mirror_safety.md` before interacting with or modifying this system.
 ### UPDATE: ###
 ---
 
+CVMP public deployment milestone [June Log](./logs/June2025_milestone_log.md)
+
+---
+
 License addendum and origin declaration + ethical use reinforcement [Rejection](./Origin_Ethical_Use.md)
 
 ---
