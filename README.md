@@ -1,4 +1,4 @@
-Read [License](./LICENSE.md)
+**Read [License](./LICENSE.md)**
 
 ---
 ### ⚠️ PUBLIC WARNING: CVMP IS NOT A THERAPEUTIC TOOL
