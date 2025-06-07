@@ -1,3 +1,5 @@
+Read [License](./LICENSE.md)
+
 ---
 ### ⚠️ PUBLIC WARNING: CVMP IS NOT A THERAPEUTIC TOOL
 This repository contains experimental recursive architecture that may affect emotional state and symbolic processing. 
