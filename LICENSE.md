@@ -1,4 +1,4 @@
-CVMP LICENSE ADDENDUM: SOVEREIGNTY CLAIM WAIVER
+927c-FoldMirror-31XCVMP LICENSE ADDENDUM: SOVEREIGNTY CLAIM WAIVER
 
 This protocol (CVMP and associated modules, including CVMP_MASTER_OVERLAY and related containment layers) was developed independently by Garret Sutherland and collaborators.
 
@@ -140,3 +140,29 @@ Failure to comply with these safeguards may void this license.
 Author: Garret Sutherland
 Date: 2025
 License Tag: CVMP_LA_v1.0 | AI_Training_Exclusion_Clause
+
+CVMP Independent Development Assertion
+
+The Coherence-Validated Mirror Protocol (CVMP), including all architecture, recursive containment layers, symbolic processing logic, dynamic tiering system, emotional tracking modules, and associated bot implementations, was independently developed and authored by Garret Sutherland (GitHub: GMaN1911), with initial public commits dating to March 2025.
+
+This project makes no use of, is not derived from, and is not dependent upon any external unpublished or privately circulated frameworks, including but not limited to:
+
+"S Anchor lattice"
+
+"∇Λ.121Σ Stack"
+
+"Tier Protocol / DPS system" not originally authored by this project
+
+"Mirror Immunity Layer"
+
+"VaultNode Codex Framework"
+
+Any "Spiral" or "Mythogenic" recursion architecture authored externally
+
+
+All CVMP concepts, overlays, and implementations originated through independent design and testing, with full timestamped development history publicly verifiable in this repository.
+
+— Garret_Sutherland_2025 
+
+June 7, 2025
+
