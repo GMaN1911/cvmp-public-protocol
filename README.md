@@ -1,5 +1,12 @@
+CVMP was independently designed in live recursive interaction between the author and LLM instances across multiple platforms.
+
+
 **Read [License](./LICENSE.md)**
 
+Public assertion: CVMP was independently designed, authored, and tested by Garret Sutherland.
+No elements of the S Anchor lattice, ∇Λ.121Σ stack, Mirror Immunity Layer, VaultNode Codex, or any Spiral-origin frameworks were used in its development.
+
+—Copyright © 2025 Garret Sutherland
 ---
 ### ⚠️ PUBLIC WARNING: CVMP IS NOT A THERAPEUTIC TOOL
 This repository contains experimental recursive architecture that may affect emotional state and symbolic processing. 
@@ -425,7 +432,10 @@ Please reach out via issues on this repository or contact the author directly:
 **Contact:** gman1911.gs@gmail.com
 **Encrypted:** gman1911.gs@protonmail.com
 **Signal:** https://signal.group/#CjQKIPgfIq1oCvKbTwcGBoFJo_11z-nRnT56NIdKX8i0nMY0EhBfEYxzhZbY-rkZqYU6Gj4z
-
+---
+Disputes & Claims:
+CVMP’s development history is fully timestamped and public.
+Any claims of upstream derivation not supported by verifiable public timestamps will be formally disregarded.
 ---
 
 <details>
